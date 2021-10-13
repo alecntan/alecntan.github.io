@@ -10,9 +10,13 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Alec Tan # author name
+  name: Hello! I'm Alec Tan. # author name
   bio: >- # tell to the world
-          Hello!
+  I am a software engineering student at the University of New South Wales, Australia. 
+  I like to build things with code, and learn about anything related to software design and development.
+  I occasionally write about my projects, thoughts, and anything I find interesting during my journey - and you can
+  find them all in here. Welcome! 
+
   username: alecntan # general username
   github: alecntan # github username
   #twitter: twitter_username # twitter username
