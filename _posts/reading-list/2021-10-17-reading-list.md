@@ -6,9 +6,7 @@ date: 2021-10-17
 
 Hello!
 
-In here you'll find some of the books I plan to read in the future, and are sorted by their categories.
-
-I'll also keep this updated with new books I want to read, as well as indicate which books I've read, and are currently reading.
+In here you'll find some of the books I plan to read in the future. I'll update this list regularly with new books I want to read, as well as indicate which books I've read, and are currently reading.
 
 ## APIs and Backend Development
 - "RESTful Web APIs: Services for a Changing World" by  Leonard Richardson. [Current]
