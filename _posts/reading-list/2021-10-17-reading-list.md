@@ -2,6 +2,7 @@
 laytout: post
 title: "My Reading List"
 date: 2021-10-17
+categories: article
 ---
 
 Hello!
