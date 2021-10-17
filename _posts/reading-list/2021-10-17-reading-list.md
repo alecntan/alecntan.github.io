@@ -17,7 +17,8 @@ In here you'll find some of the books I plan to read in the future. I'll update 
 - "Full Stack React" by A. Accomazzo, A. Lerner, C. Allsopp, D. Guttman, T. McGinnis, and N. Murray.
 
 ## Algorithms and Data Structures
-"Computer Science Distilled: Learn the Art of Solving Computational Problems" by Wladston Filho.
+- "Computer Science Distilled: Learn the Art of Solving Computational Problems" by Wladston Filho.
+
 
 ## Programming
 - "Clean Code: A Handbook of Agile Software Craftmanship" by Robert Martin.
