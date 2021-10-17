@@ -7,8 +7,8 @@ comments: false
 
 Hello!
 
-I'm a software engineering student at the University of New South Wales (UNSW), Australia. I love solving problems through code, especially if it helps people in some way. 
-I also love to learn and so I always have a book in hand - I'm currently reading Leonard Richardson's "RESTful Web APIs: Services for a Changing World". You can find my reading list in here.
+I'm a software engineering student at the University of New South Wales (UNSW), Australia. I have a passion for solving problems through code, especially if it helps people in some way. 
+I'm always eager to further develop my skills and grow as an engineer, and so I would often have a book in hand - I'm currently reading Leonard Richardson's "RESTful Web APIs: Services for a Changing World". You can find my reading list in here.
 
 My coding journey began when I was given a book on python programming at the age of 11 years old. I enjoyed seeing the computer complete its appointed task all by itself, and seeing how much you can accomplish through code.
 This enjoyment then lead me to study software engineering at university where I learned about software design, best development practices, and how to use technologies that I didn't even know existed. Since then 
