@@ -10,7 +10,7 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Hello! I'm Alec Tan. # author name
+  name: Alec Tan. # author name
   bio: >- # tell to the world
     I like to build things with code and learn about anything related to software design and development. Welcome to my blog!
      
