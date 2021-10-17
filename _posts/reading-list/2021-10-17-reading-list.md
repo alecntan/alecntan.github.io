@@ -8,6 +8,8 @@ Hello!
 
 In here you'll find some of the books I plan to read in the future. I'll update this list regularly with new books I want to read, as well as indicate which books I've read, and are currently reading.
 
+If you're looking for some new titles to read, then I hope this list helps! :)
+
 ## APIs and Backend Development
 - "RESTful Web APIs: Services for a Changing World" by  Leonard Richardson. [Current]
 - "Practical SQL: A Beginner's Guide to Storytelling with Data" by Anthony DeBarros
