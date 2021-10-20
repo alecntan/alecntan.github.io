@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Alec Tan. # author name
   bio: >- # tell to the world
-    I like to build things with code and learn about anything related to software design and development. Welcome to my blog!
+    I like to build things with code and learn about things related to software design and development. Welcome to my blog!
      
 
   username: alecntan # general username
