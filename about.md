@@ -8,7 +8,7 @@ comments: false
 Hello! I'm Alec Tan.
 
 I'm a software engineering student at the University of New South Wales (UNSW), Australia. I have a passion for solving problems, and helping people, through code.
-I'm always eager to further develop my skills and grow as an engineer, and so I would often have a book in hand - I'm currently reading Leonard Richardson's "RESTful Web APIs: Services for a Changing World". You can find my reading list in [here]({% link _posts/reading-list/2021-10-17-reading-list.md %}).
+I'm always eager to further develop my skills and grow as an engineer, and so I would often have a book in hand - I'm currently reading Leonard Richardson's "RESTful Web APIs: Services for a Changing World". You can find my reading list in [here]({% link _posts/reading_list/2021-10-17-reading-list.md %})
 
 
 My coding journey began when I was given a book on python programming at the age of 11 years old. I enjoyed seeing the computer complete its appointed task all by itself, and seeing how much you can accomplish through code.
