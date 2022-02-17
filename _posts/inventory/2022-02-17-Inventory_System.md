@@ -9,9 +9,7 @@ api: /assets/img/API.png
 tags: Web-Development API React Flask Python
 ---
 
-<figure>
-	<img src="{{page.storage}}" alt="storage picture">
-</figure>
+![Alt text](/assets/img/inventoryImage.jpg)
 
 ## Setting the Scene
 It’s been at least 5 years since I’ve joined the Tech ministry at my local church, and 1 year since I’ve started serving the ministry as one of its Tech Leads. As part of the Tech ministry, we provide technical support during church events and operations. This includes providing Live Audio Mixing, Lighting and Live Streaming Production, and managing internal software tooling such as Google Workspace. 
