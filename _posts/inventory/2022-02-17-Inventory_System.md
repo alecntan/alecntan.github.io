@@ -3,7 +3,7 @@ layout: post
 title: "Project: Inventory System"
 date: 2022-02-17
 categories: project
-storage: /assets/img/inventoryImage.jpg
+storage: inventoryImage.jpg
 storeUp: /assets/img/Store.png
 api: /assets/img/API.png
 tags: Web-Development API React Flask Python
