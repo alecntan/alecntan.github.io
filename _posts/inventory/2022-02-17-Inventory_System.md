@@ -3,14 +3,14 @@ layout: post
 title: "Project: Inventory System"
 date: 2022-02-17
 categories: project
-demo: /assets/img/inventoryImage.jpg
+storage: /assets/img/inventoryImage.jpg
 storeUp: /assets/img/Store.png
 api: /assets/img/API.png
 tags: Web-Development API React Flask Python
 ---
 
 <figure>
-	<img src="{{page.demo}}" alt="Game Demo">
+	<img src="{{page.storage}}" alt="storage picture">
 </figure>
 
 ## Setting the Scene
