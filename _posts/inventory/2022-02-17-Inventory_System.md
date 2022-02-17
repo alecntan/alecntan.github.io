@@ -3,16 +3,15 @@ layout: post
 title: "Project: Inventory System"
 date: 2022-02-17
 categories: project
-inventory: /assets/img/inventoryImage.jpg
+demo: /assets/img/inventoryImage.jpg
 storeUp: /assets/img/Store.png
 api: /assets/img/API.png
 tags: Web-Development API React Flask Python
 ---
 
 <figure>
-    <img src="{{page.inventory}}" alt="inventory">
+	<img src="{{page.demo}}" alt="Game Demo">
 </figure>
-  
 
 ## Setting the Scene
 It’s been at least 5 years since I’ve joined the Tech ministry at my local church, and 1 year since I’ve started serving the ministry as one of its Tech Leads. As part of the Tech ministry, we provide technical support during church events and operations. This includes providing Live Audio Mixing, Lighting and Live Streaming Production, and managing internal software tooling such as Google Workspace. 
