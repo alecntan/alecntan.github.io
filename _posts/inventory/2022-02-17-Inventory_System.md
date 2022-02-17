@@ -42,10 +42,10 @@ To provide the ministry the functionality that it needs, I’ve developed two ap
     <img src="{{page.api}}" alt="logo">
 </figure>
 
-APInventory is a RESTful API built with Flask. It allows users to:
-    - know what storages they have in their inventory, what they contain and where can be found.
-    - Know the state of each item and where they ought to be stored.
-    - Keep track of any notes regarding certain storage boxes, and items.
+APInventory is a RESTful API built with Flask. It allows users to: <br>
+    - know what storages they have in their inventory, what they contain and where can be found. <br>
+    - Know the state of each item and where they ought to be stored. <br>
+    - Keep track of any notes regarding certain storage boxes, and items. <br>
 
 In addition to Flask, it uses extensions such as [Flask-Cors](https://flask-cors.readthedocs.io/en/latest/) to enable Cross-Origin-Resource-Sharing (CORS), and [Flask-SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/) for accessing databases using an ORM (SQLAlchemy). The API currently uses SQLite as its database for the demo.
 
