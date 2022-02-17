@@ -9,7 +9,12 @@ api: /assets/img/API.png
 tags: Web-Development API React Flask Python
 ---
 
-![Alt text](/assets/img/inventoryImage.jpg)
+![Shelves with Boxes](/assets/img/inventoryImage.jpg)
+
+## Live Demos
+
+storeUp: https://apinventory.alectan.dev/storeup/
+Backend/API: https://apinventory.alectan.dev/swagger/
 
 ## Setting the Scene
 It’s been at least 5 years since I’ve joined the Tech ministry at my local church, and 1 year since I’ve started serving the ministry as one of its Tech Leads. As part of the Tech ministry, we provide technical support during church events and operations. This includes providing Live Audio Mixing, Lighting and Live Streaming Production, and managing internal software tooling such as Google Workspace. 
@@ -35,7 +40,7 @@ To provide the ministry the functionality that it needs, I’ve developed two ap
 ### APInventory
 
 <figure>
-    <img src="{{page.api}}" alt="apinventory">
+    <img src="{{page.api}}" alt="logo">
 </figure>
 
 APInventory is a RESTful API built with Flask. It allows users to:
@@ -54,7 +59,7 @@ Instead each resource sent by the API includes several links which represent the
 ### storeUp
 
 <figure>
-    <img src="{{page.storeUp}}" alt="apinventory">
+    <img src="{{page.storeUp}}" alt="logo">
 </figure>
 
 
