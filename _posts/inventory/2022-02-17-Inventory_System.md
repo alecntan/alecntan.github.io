@@ -53,6 +53,11 @@ Instead each resource sent by the API includes several links which represent the
 
 ### storeUp
 
+<figure>
+    <img src="{{page.storeUp}}" alt="apinventory">
+</figure>
+
+
 StoreUP is a single-page client application for APInventory that I’ve built using React. 
 
 Its components and icons are provided by [React-Bootstrap](https://react-bootstrap.github.io/) and [Bootstrap Icons](https://icons.getbootstrap.com/).
