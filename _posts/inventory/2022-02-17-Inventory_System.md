@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Project: Inventory System'
+title: "Project: Inventory System"
 date: 2022-02-17
 categories: project
 tags: Web Development, API, React, Flask, Python
