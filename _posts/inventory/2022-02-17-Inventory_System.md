@@ -36,6 +36,10 @@ To provide the ministry the functionality that it needs, I’ve developed two ap
 
 ### APInventory
 
+<figure>
+    <img src="{{page.api}}" alt="apinventory">
+</figure>
+
 APInventory is a RESTful API built with Flask. It allows users to:
     - know what storages they have in their inventory, what they contain and where can be found.
     - Know the state of each item and where they ought to be stored.
