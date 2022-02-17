@@ -13,7 +13,7 @@ tags: Web-Development API React Flask Python
 
 ## Live Demos
 
-[StoreUp(Client)](https://apinventory.alectan.dev/storeup/)  [APInventory(Backend/API)](https://apinventory.alectan.dev/swagger/)
+[StoreUp (Client)](https://apinventory.alectan.dev/storeup/) <br> [APInventory (Backend/API)](https://apinventory.alectan.dev/swagger/)
 
 ## Setting the Scene
 It’s been at least 5 years since I’ve joined the Tech ministry at my local church, and 1 year since I’ve started serving the ministry as one of its Tech Leads. As part of the Tech ministry, we provide technical support during church events and operations. This includes providing Live Audio Mixing, Lighting and Live Streaming Production, and managing internal software tooling such as Google Workspace. 
