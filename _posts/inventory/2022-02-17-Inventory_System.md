@@ -11,7 +11,6 @@ tags: Web-Development API React Flask Python
 
 <figure>
     <img src="{{page.inventory}}" alt="inventory">
-    <figcaption>Photo by <a href="https://unsplash.com/@paucasals?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mediocre Studio</a> on <a href="https://unsplash.com/s/photos/storage?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></figcaption>
 </figure>
   
 
