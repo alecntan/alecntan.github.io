@@ -67,46 +67,6 @@ StoreUP is a single-page client application for APInventory that I’ve built us
 Its components and icons are provided by [React-Bootstrap](https://react-bootstrap.github.io/) and [Bootstrap Icons](https://icons.getbootstrap.com/).
 API calls are made using fetch, with application state and side effects managed by React Hooks.
 
-## Lessons Learned
-Here are a few of my highlights!
-
-### My First React App
-
-Prior to developing storeUp, I’ve never tried building an app with React before.
-
-Back then I’ve only used HTML, CSS, Javascript, Bootstrap, and Jinja2 (Flask’s templating engine) to create any frontend I needed. While it's certainly possible to create storeUp without React, I’ve been wanting to learn React for some time already.
-
-So I bought a copy of [Fullstack React](https://www.newline.co/fullstack-react/) and read away!
-
-And man was I glad I did that - React is so cool!
-
-I love how React uses encapsulated components to build UI. Having components own their own state and logic makes frontend development feel much better, especially compared to bare HTML/CSS/JS.
-
-I’ll definitely be using React for frontend from now on!
-
-### RESTful APIs with Flask
-
-Unlike React, I’ve already made a few web applications with Flask prior to this project. Most of which were for my university classes. What’s different this time is that I’ll be building an API with Flask. 
-
-Since I only know little about API development, I bought a copy of [RESTful Web APIs : Services for a changing World](https://www.amazon.com.au/RESTful-Web-APIs-Leonard-Richardson/dp/1449358063) and started learning.
-
-One of the most memorable lessons I’ve learned is that REST wasn’t just for APIs but for the whole web. In fact, it was one of the key things that made the web what it is today. RESTful APIs are simply APIs that follow its constraints to reap the benefits it provides. 
-
-I also learned what these benefits are, and the difference between RESTful APIs and RPC style APIs.
-
-I thoroughly enjoyed the book, so much so that I might write about the lessons I’ve learned in greater detail in another article - so stay tuned for that if you’re interested!
-
-In addition to API design and development, I also learned how to use Pytest with Flask. 
-
-### Deploying for the First Time
-
-One of the things I was really looking forward to in this project was learning how to deploy web applications. Up until now, all of the projects that I’ve completed are hosted on the local machine.
-
-So I bought myself a server from Linode and started deploying away!
-
-I’ve learned how to set up a web server with NGINX and configure it for both Flask and React applications. As well as how to set up HTTPS using Certbot. 
-
-
 ## One Step Closer to the Dream
 
 Both storeUp and APInventory have been one of the most enjoyable projects I’ve ever done. 
